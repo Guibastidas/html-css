@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font: 15px Arial;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+}
+.meio {
+    text-align: center;
+}
